@@ -1,0 +1,10 @@
+label{
+    display: block;
+    padding: 2px;
+}
+textarea
+{
+    display: block;
+    padding: 2px;
+    margin: 4px;
+}
