@@ -1,0 +1,10 @@
+label{
+    display: block;
+}
+p{
+    color: red;
+}
+input[type='checkbox']
+{
+    display: block;
+}
