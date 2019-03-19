@@ -1,0 +1,75 @@
+.greeting {
+    display: inline;
+}
+
+.logout {
+    float: right;
+}
+
+div#contents {
+    display: inline;
+    max-width: 800px;
+    margin: auto;
+}
+
+a.content {
+    border: 2px solid black;
+    background-color: azure;
+}
+
+.footer {
+    padding-top: 100px;
+    background-color: #f8f9fa;
+    text-align: center;
+}
+
+body {
+    background-color: #f8f9fa;
+}
+
+div#accordions.accordion {
+    max-width: 1000px;
+    margin: auto;
+}
+
+div#productDiv, div#bloodRequestDiv, div#bloodSampleDiv {
+    text-align: right;
+}
+
+div#addProductDiv, div#addRequestDiv, div#addSampleDiv {
+    max-width: 600px;
+    margin: auto;
+
+}
+
+nav.navbar.navbar-expand-lg.navbar-light.bg-light {
+    margin-top: 25px !important;
+    padding-bottom: 40px !important;
+}
+
+div.headerMain {
+    background-image: url("/resources/img/header.png");
+    background-repeat: repeat-x;
+}
+div#divInfo {
+    background-color: antiquewhite;
+    font-size: larger;
+    text-align: center;
+    margin-bottom: 20px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+div#info {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    margin-bottom: 20px;
+}
+
+div#details {
+    padding-top: 20px;
+    font-weight: bold;
+    font-style: italic;
+    color: darkcyan;
+}
